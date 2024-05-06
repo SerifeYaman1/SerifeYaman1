@@ -83,6 +83,4 @@
 </div>
 
 ### :fire: My Stats :
-![SerifeYaman1's Stats](https://github-readme-stats.vercel.app/api?username=SerifeYaman1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![SerifeYaman1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SerifeYaman1&theme=tokyonight&hide_border=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerifeYaman1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="SerifeYaman1's Top Languages" width="470" height="%100">

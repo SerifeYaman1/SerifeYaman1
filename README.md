@@ -6,7 +6,7 @@
 ### About Me 🌐
 
 - 🔭 I’m currently working on library project
-- 🌱 I’m currently learning Angular.js, React.js, Java
+- 🌱 I’m currently learning Angular, React, Java
 - 📫 How to reach me: serifeaacyaman12@gmail.com
 
 ### Connect With Me :
